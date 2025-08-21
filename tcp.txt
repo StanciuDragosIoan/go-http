@@ -1,0 +1,41 @@
+read: test123
+read: hello
+read: ^testmama
+read: ������������exit
+read: quit
+read: GET / HTTP/1.1
+read: Host: localhost:42069
+read: Connection: keep-alive
+read: Cache-Control: max-age=0
+read: sec-ch-ua: "Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"
+read: sec-ch-ua-mobile: ?0
+read: sec-ch-ua-platform: "macOS"
+read: Upgrade-Insecure-Requests: 1
+read: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+read: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+read: Sec-Fetch-Site: none
+read: Sec-Fetch-Mode: navigate
+read: Sec-Fetch-User: ?1
+read: Sec-Fetch-Dest: document
+read: Accept-Encoding: gzip, deflate, br, zstd
+read: Accept-Language: en-US,en;q=0.9
+read: Cookie: authjs.callback-url=http%3A%2F%2Flocalhost%3A3000%2Fen-001%2Flogin%3Fredirect%3Dhcp%252Fscience-and-innovation-page; isHcpUser=true; NEXT_LOCALE=en-US; authjs.csrf-token=cac21a9f58a300ce279d02f2464918f4120a2c983b96b4a0cba41c84b702a6f5%7C9a7814d527c8b40169d5eaba4066cc897aad928173c3acdefdf0e894052cecb7; __next_hmr_refresh_hash__=d8a875292ba887036589055fc7a6b6687dd388821b34d808; lng=en
+read: 
+read: GET / HTTP/1.1
+read: Host: localhost:42069
+read: Connection: keep-alive
+read: Cache-Control: max-age=0
+read: sec-ch-ua: "Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"
+read: sec-ch-ua-mobile: ?0
+read: sec-ch-ua-platform: "macOS"
+read: Upgrade-Insecure-Requests: 1
+read: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+read: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+read: Sec-Fetch-Site: none
+read: Sec-Fetch-Mode: navigate
+read: Sec-Fetch-User: ?1
+read: Sec-Fetch-Dest: document
+read: Accept-Encoding: gzip, deflate, br, zstd
+read: Accept-Language: en-US,en;q=0.9
+read: Cookie: authjs.callback-url=http%3A%2F%2Flocalhost%3A3000%2Fen-001%2Flogin%3Fredirect%3Dhcp%252Fscience-and-innovation-page; isHcpUser=true; NEXT_LOCALE=en-US; authjs.csrf-token=cac21a9f58a300ce279d02f2464918f4120a2c983b96b4a0cba41c84b702a6f5%7C9a7814d527c8b40169d5eaba4066cc897aad928173c3acdefdf0e894052cecb7; __next_hmr_refresh_hash__=d8a875292ba887036589055fc7a6b6687dd388821b34d808; lng=en
+read: 

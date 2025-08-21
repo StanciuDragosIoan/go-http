@@ -1,0 +1,7 @@
+httpParts: [[72 84 84 80] [49 46 49]]
+HTTP major: [72 84 84 80]
+HTTP minor: [49 46 49]
+Request line:
+- Method: GET
+- Target: /prime/agen
+- Version: 1.1
